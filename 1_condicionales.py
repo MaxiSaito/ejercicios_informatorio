@@ -1,4 +1,4 @@
-# Ejemplo if True:
+# Ejemplo if True: PLEASE ANDA POR FAVOR FUNCIONA ESTOY DESESPERADO
 
 a = 5
 if a == 2:
