@@ -2,4 +2,4 @@
 concatenacion = "Hola " + "mundo"
 print("Resultado concatenación:", concatenacion)
 
-gasashkjaslkAasASJKs
+# Esto es una prueba
